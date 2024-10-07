@@ -318,6 +318,17 @@
         "input": {},
         "id": 1202149588
     },
+    "Core Unit XL Schematic Copy": {
+        "tier": 2,
+        "type": "Schematics",
+        "volume": 0,
+        "outputQuantity": 1,
+        "time": 36250,
+        "byproducts": {},
+        "industry": "",
+        "input": {},
+        "id": 2394838504
+    },
     "Construct Support XS Schematic Copy": {
         "tier": 1,
         "type": "Schematics",
@@ -8676,6 +8687,24 @@
             "Rare Core System L": 1,
             "Rare Standard Frame L": 1,
             "Core Unit L Schematic Copy": 1
+        },
+        "id": 1417952990
+    },
+    "Dynamic Core Unit XL": {
+        "tier": 4,
+        "type": "Planet Element",
+        "volume": 2501,
+        "outputQuantity": 1,
+        "time": 259200,
+        "byproducts": {},
+        "industry": "Assembly Line XL",
+        "input": {
+            "Uncommon Component": 108,
+            "Advanced Component": 108,
+            "Rare Power System": 1000,
+            "Rare Core System L": 1,
+            "Rare Standard Frame XL": 1,
+            "Core Unit XL Schematic Copy": 1
         },
         "id": 1417952990
     },
